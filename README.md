@@ -1,7 +1,7 @@
 # **<div align="center">⚫Ruslan Ismagilov⚫</div>**  
   
 
-*An 18 year old talent who started programming in 2020 and is still doing it. My goal is to become a senior front-end developer and work for a large company such as AMAZON*  
+*An 18 year old talent who started programming in 2020 and is still doing it. My goal is to become a senior frontend developer and work for a large company such as AMAZON*  
   
 
 <br/>  
