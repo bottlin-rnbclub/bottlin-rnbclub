@@ -1,5 +1,4 @@
-# **<div align="center">⚫Ruslan Ismagilov⚫</div>**  
-  
+
 
 *An 18 year old talent who started programming in 2020 and is still doing it. My goal is to become a senior frontend developer
   
